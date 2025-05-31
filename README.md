@@ -34,5 +34,5 @@ Welcome to the AI Hackathon! This event focuses on leveraging cutting-edge techn
 - **Technical Execution**: How well is the solution implemented?
 - **Documentation**: How clear and comprehensive is the process description?
 
-## Repository
-[Open Innovation AI Hackathon Berlin July 2024 Repository](https://github.com/rahulbedjavalge/Open-Innovation-AI-Hackathon-Berlin-July-2024.git)
+## You can check project here 
+[Final project link](https://universe.roboflow.com/animalidentification-th83a/animal_identification)
